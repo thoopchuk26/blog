@@ -22,7 +22,6 @@ And before I forget here's a list of my future projects that I don't have time t
 * Functional Yu-gi-oh Duel Disk
 * Motorized Heelys/Motorized pop-out Skates
 * Handheld Wii with disc drive
-* Real Life Pokedex
 
 [twitch-link]: https://www.twitch.tv/derplink26
 [esports-twitch]: https://www.twitch.tv/hendrixesports
