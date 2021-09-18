@@ -19,11 +19,11 @@ I assume they're working in my best interest even if I can't read it.
   I'm looking forward to having more flexibility with the design and layout of the site through using template styles
 so as to not actually ever have to write html code on my own.
 
-  Here's two cool websites, [cool website][trust him], [less cool website][always liked this one].
+  Here's two cool websites, [trust him][cool website], [always liked this one][less cool website].
 
   Unrelated but I've been thinking about buying an electric skateboard or a guitar with the relief check.
 
-[Electric Skateboard]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AElectric_Skateboard.png&psig=AOvVaw2JS05HGKV3-XSsfbzZzADY&ust=1632023773614000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIiz573Qh_MCFQAAAAAdAAAAABAI
-[Guitar]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC.F._Martin_GRH_160_or_000-16RGT_cropped.png&psig=AOvVaw2eJKD4mQqrKwY-J3tYxF2O&ust=1632023887781000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPjxkPTQh_MCFQAAAAAdAAAAABAJ
+[Electric Skateboard](https://upload.wikimedia.org/wikipedia/commons/f/fa/Electric_Skateboard.png)
+[Guitar]: https://upload.wikimedia.org/wikipedia/commons/4/4d/C.F._Martin_GRH_160_or_000-16RGT_cropped.png
 [cool website]: https://matias.ma/nsfw/
 [less cool website]: http://www.hasthelargehadroncolliderdestroyedtheworldyet.com/#:~:text=Has%20the%20Large%20Hadron%20Collider,NOPE.
