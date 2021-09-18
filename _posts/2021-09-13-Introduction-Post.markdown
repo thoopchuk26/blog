@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction Post"
+title:  "Introduction Post(wtf)"
 date:   2021-09-14 8:17:39 -0500
 categories: lab update
 ---
