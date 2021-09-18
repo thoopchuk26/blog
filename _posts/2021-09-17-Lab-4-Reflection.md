@@ -23,7 +23,7 @@ so as to not actually ever have to write html code on my own.
 
   Unrelated but I've been thinking about buying an electric skateboard or a guitar with the relief check.
 
-![Electric Skateboard](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AElectric_Skateboard.png&psig=AOvVaw2JS05HGKV3-XSsfbzZzADY&ust=1632023773614000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIiz573Qh_MCFQAAAAAdAAAAABAI)
-![Guitar](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC.F._Martin_GRH_160_or_000-16RGT_cropped.png&psig=AOvVaw2eJKD4mQqrKwY-J3tYxF2O&ust=1632023887781000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPjxkPTQh_MCFQAAAAAdAAAAABAJ)
-[cool website][https://matias.ma/nsfw/]
-[less cool website][http://www.hasthelargehadroncolliderdestroyedtheworldyet.com/#:~:text=Has%20the%20Large%20Hadron%20Collider,NOPE.]
+![Electric Skateboard]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AElectric_Skateboard.png&psig=AOvVaw2JS05HGKV3-XSsfbzZzADY&ust=1632023773614000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCIiz573Qh_MCFQAAAAAdAAAAABAI
+![Guitar]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC.F._Martin_GRH_160_or_000-16RGT_cropped.png&psig=AOvVaw2eJKD4mQqrKwY-J3tYxF2O&ust=1632023887781000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCPjxkPTQh_MCFQAAAAAdAAAAABAJ
+[cool website]: https://matias.ma/nsfw/
+[less cool website]: http://www.hasthelargehadroncolliderdestroyedtheworldyet.com/#:~:text=Has%20the%20Large%20Hadron%20Collider,NOPE.
