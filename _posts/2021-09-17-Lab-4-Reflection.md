@@ -23,7 +23,7 @@ so as to not actually ever have to write html code on my own.
 
   Unrelated but I've been thinking about buying an electric skateboard or a guitar with the relief check.
 
-[Electric Skateboard](https://upload.wikimedia.org/wikipedia/commons/f/fa/Electric_Skateboard.png)
+![Electric Skateboard](https://upload.wikimedia.org/wikipedia/commons/f/fa/Electric_Skateboard.png)
 [Guitar]: https://upload.wikimedia.org/wikipedia/commons/4/4d/C.F._Martin_GRH_160_or_000-16RGT_cropped.png
 [cool website]: https://matias.ma/nsfw/
 [less cool website]: http://www.hasthelargehadroncolliderdestroyedtheworldyet.com/#:~:text=Has%20the%20Large%20Hadron%20Collider,NOPE.
