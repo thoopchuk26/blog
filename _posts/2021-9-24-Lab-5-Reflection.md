@@ -15,4 +15,4 @@ working with Vertabelo and getting everything setup properly. It's a lot easier 
 get the ball rolling.
 
 ![model]({{site.baseurl}}/images/diagram.png)
-![schema]({{site.baseurl}}/images/schema.PNG)
+![schema]({{site.baseurl}}/images/schema.png)
