@@ -14,5 +14,5 @@ entities and how the interacted with each other mostly made sense. Although I'm 
 working with Vertabelo and getting everything setup properly. It's a lot easier to write it out on paper to
 get the ball rolling.
 
-![model]({{site.baseurl}}/images/diagram.PNG)
+![model]({{site.baseurl}}/images/diagram.png)
 ![schema]({{site.baseurl}}/images/schema.PNG)
