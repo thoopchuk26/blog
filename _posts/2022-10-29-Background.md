@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Background"
-date:   2022-10-28 8:31:39 -0500
+title:  "Background 2"
+date:   2022-10-229 8:31:39 -0500
 categories: lab update
 ---
 
@@ -14,3 +14,5 @@ setup some kind of chunk structure to hold chunks of block data in order to star
 too far away to keep it running smoothly. I'll hope to get that stuff done by around middle of November, it shouldn't
 be too hard conceptually but making it run smoothly is definitely something I have to keep in mind when building my project
 out like this.
+
+![where we left off]({{site.baseurl}}/images/rotate.gif)

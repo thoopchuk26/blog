@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Background"
+title:  "Background 4"
 date:   2022-10-31 8:31:39 -0500
 categories: lab update
 ---
@@ -14,4 +14,4 @@ an argument to be made that at this point I should focus on getting placing and 
 
 Oh well.
 
-![where we left off]({{site.baseurl}}/images/two_of_them.gif)
+![where we left off]({{site.baseurl}}/images/two_of_them.png)
