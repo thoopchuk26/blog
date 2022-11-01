@@ -12,4 +12,4 @@ block types and cave generation (not happening). I have a general idea of how to
 the implementation isn't too difficult, there's also a fair amount of documentation about it so I'm in
 good hands.
 
-![where we left off]({{site.baseurl}}/images/first person.gif)
+![model]({{site.baseurl}}/images/first person.gif)

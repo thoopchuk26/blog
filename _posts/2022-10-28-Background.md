@@ -19,4 +19,4 @@ the screen, which means I'm going to import all of my sdl2 stuff into opengl bec
 be a lot more popular and efficient. Hopefully that doesn't take too long because I'm not using
 sdl2 that much but I'll find out how much of a hassle this is soon.
 
-![where we left off]({{site.baseurl}}/images/based.png)
+![model]({{site.baseurl}}/images/based.png)

@@ -14,4 +14,4 @@ an argument to be made that at this point I should focus on getting placing and 
 
 Oh well.
 
-![where we left off]({{site.baseurl}}/images/two_of_them.png)
+![model]({{site.baseurl}}/images/two_of_them.png)

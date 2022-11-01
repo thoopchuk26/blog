@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Background 2"
-date:   2022-10-229 8:31:39 -0500
+date:   2022-10-29 8:31:39 -0500
 categories: lab update
 ---
 
@@ -15,4 +15,4 @@ too far away to keep it running smoothly. I'll hope to get that stuff done by ar
 be too hard conceptually but making it run smoothly is definitely something I have to keep in mind when building my project
 out like this.
 
-![where we left off]({{site.baseurl}}/images/rotate.gif)
+![model]({{site.baseurl}}/images/rotate.gif)
